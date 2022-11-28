@@ -1,5 +1,5 @@
 import { FC, MouseEventHandler, useCallback } from "react"
-import {Button, Container, Heading, HStack, Text, VStack,} from "@chakra-ui/react"
+import {Button, Container, Heading, HStack, Text, VStack} from "@chakra-ui/react"
 import { ArrowForwardIcon } from "@chakra-ui/icons"
 import { useWalletModal } from "@solana/wallet-adapter-react-ui"
 import { useWallet } from "@solana/wallet-adapter-react"

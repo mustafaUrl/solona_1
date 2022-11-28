@@ -1,5 +1,5 @@
 import { FC } from "react"
-import { Button, Container, Heading, HStack, Text, VStack, Image,} from "@chakra-ui/react"
+import { Button, Container, Heading, HStack, Text, VStack, Image} from "@chakra-ui/react"
 import { ArrowForwardIcon } from "@chakra-ui/icons"
 
 const Connected: FC = () => {
